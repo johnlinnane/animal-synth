@@ -71,6 +71,7 @@ Closeness of the face to the webcam affects playback speed of audio.
 Tilt of mobile phone affects playback speed of audio. Start with phone flat and tilt forward and back. Requires installation of free OSCHook app.
 Node server must be quit
 
+
 For each SuperCollider sketch:
 
 ● Lower your computer system volume.
