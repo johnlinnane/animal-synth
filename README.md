@@ -73,8 +73,11 @@ Node server must be quit
 
 For each SuperCollider sketch:
 
-Lower your computer system volume.
-Evaluate s.boot; using C​ md-Return/Ctrl-Enter.
-Evaluate all OSCDef blocks (within parenthesis). Evaluate synth block (within parenthesis).
-When finished, free all processes using Cmd-./Ctrl-. Evaluate s.quit; after every file to clear the server nodes.
+● Lower your computer system volume.
+
+● Evaluate s.boot; using C​ md-Return/Ctrl-Enter.
+
+● Evaluate all OSCDef blocks (within parenthesis). Evaluate synth block (within parenthesis).
+
+● When finished, free all processes using Cmd-./Ctrl-. Evaluate s.quit; after every file to clear the server nodes.
 
