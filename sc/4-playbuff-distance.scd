@@ -25,7 +25,7 @@ OSCdef.new(
 
 (
 // load audio to the buffer
-b = Buffer.read(s, thisProcess.nowExecutingPath.dirname +/+ "dq.wav");
+b = Buffer.read(s, thisProcess.nowExecutingPath.dirname +/+ "dq.flac");
 
 // define a buffer synth definition
 z = SynthDef(\bufferSlow,
