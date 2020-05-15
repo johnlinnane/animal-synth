@@ -28,7 +28,7 @@ OSCdef.new(
 
 (
 // load audio to the buffer
-b = Buffer.read(s, thisProcess.nowExecutingPath.dirname +/+ "Introitus.wav");
+b = Buffer.read(s, thisProcess.nowExecutingPath.dirname +/+ "Introitus.flac");
 
 // define a synth
 g = SynthDef.new(\granular,
