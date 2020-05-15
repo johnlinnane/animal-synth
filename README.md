@@ -46,21 +46,21 @@ Navigate to sc folder in project folder.
 Open one of five sketches:
 
 
-**1-nose-synth**
+**1-nose-synth:**
 A synth controlled by nose position. X axis controls pitch.
 Y axis controls volume.
 
-**2-theremin**
+**2-theremin:**
 Left hand controls pitch along the X axis. Right hand controls volume along Y axis.
 
-**3-gran**
+**3-gran:**
 A granular synthesiser.
 Distance between hands affects parameters of granularised audio.
 
-**4-playbuff-distance**
+**4-playbuff-distance:**
 Closeness of the face to the webcam affects playback speed of audio.
 
-**5-playbuff-phone**
+**5-playbuff-phone:**
 Tilt of mobile phone affects playback speed of audio. Start with phone flat and tilt forward and back. Requires installation of free OSCHook app.
 Node server must be quit
 
