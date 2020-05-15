@@ -1,6 +1,6 @@
 # Pose Music
 
-Manipulation of musical parameters using the PoseNet pose estimation library, p5.js and SuperCollider. 
+Manipulation of musical parameters using the PoseNet pose estimation library, p5.js, SuperCollider and mobile phone accelerometer data. 
 
 Thesis for the MSc in Interactive Media, University College Cork 2019.
 
@@ -12,7 +12,7 @@ A musical instrument in which the user controls audio parameters through body ge
 
 ## Technologies Used
 
-PoseNet, p5.js, Node, SuperCollider, WebSockets, OSC
+PoseNet, p5.js, Node, SuperCollider, WebSockets, OSC, OSCHook, Mobile Phone Accelerometer
 
 
 ## Primary Languages
