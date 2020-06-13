@@ -12,6 +12,9 @@ A musical instrument in which the user controls audio parameters through body ge
 
 ## Technologies Used
 
+
+![PoseNet](https://github.com/panisterfatheroy/pose-music/blob/master/pose.png)
+
 PoseNet, p5.js, Node, SuperCollider, WebSockets, OSC, OSCHook, Mobile Phone Accelerometer
 
 
@@ -38,14 +41,11 @@ JavaScript, SuperCollider
 
 ### Node.js
 
-1. Navigate to project folder in terminal.
-2. If ​node_modules​ folder is absent or empty:
-  Type: n​ pm install
-  Allow dependencies to install
-3. Type: n​ ode audio-pose
-  Google Chrome
-1. Open web browser.
-2. Navigate to 127.0.0.1:8080 (or localhost:8080)
+●  Navigate to project folder in terminal.
+●  If ``node_modules`` folder is absent or empty, type: ``npm install``. Allow dependencies to install.
+●  Type ``node audio-pose``.
+●  Open web browser.
+●  Navigate to 127.0.0.1:8080 (or localhost:8080)
    
    
 ### SuperCollider
