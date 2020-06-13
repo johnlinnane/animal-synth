@@ -42,10 +42,15 @@ JavaScript, SuperCollider
 ### Node.js
 
 ●  Navigate to project folder in terminal.
+
 ●  If ``node_modules`` folder is absent or empty, type: ``npm install``. Allow dependencies to install.
+
 ●  Type ``node audio-pose``.
+
 ●  Open web browser.
+
 ●  Navigate to 127.0.0.1:8080 (or localhost:8080)
+
    
    
 ### SuperCollider
