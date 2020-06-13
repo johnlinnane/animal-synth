@@ -30,13 +30,13 @@ JavaScript, SuperCollider
 
 ● A webcam.
 
-● An unrestricted wi-fi network capable of udp connection. Installation
+● An unrestricted wi-fi network capable of udp connection.
 
-● Install Node h​ ere​ if not installed. Version 10.16.0 was used in the project.
+● Node (version 10.16.0 was used in the project).
 
-● Install SuperCollider h​ ere​ if not installed Version 3.10 was used in this project.
+● SuperCollider (version 3.10 was used in this project).
 
-● OSCHook free Android app for OSC control from mobile phone Download ​here.​
+● OSCHook (free Android app for OSC control from mobile phone).
 
 
 ### Node.js
