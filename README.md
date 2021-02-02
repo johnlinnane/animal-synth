@@ -1,4 +1,4 @@
-# Pose Music
+# AnimalSynth
 
 Manipulation of musical parameters using the PoseNet pose estimation library, p5.js, SuperCollider and mobile phone accelerometer data. 
 
